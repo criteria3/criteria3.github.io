@@ -7,6 +7,6 @@
 
 ### <a href="diary">Course Diary</a>
 
-### <a href="calender">KTU academic calenders</a>
+### <a href="calendar">KTU academic calendars</a>
 
 
