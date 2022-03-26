@@ -1,9 +1,9 @@
 
 ## Welcome to criteria 3 updates & resources
 
-### [Attainment Calculation Excel files](https://criteria3.github.com/excel)
+### <a href="https://criteria3.github.com/excel">Attainment Calculation Excel files</a>
 
-### [Vision-Mission Statements](https://criteria3.github.com/vision)
+### <a href="https://criteria3.github.com/vision">Vision-Mission Statements</a>
 
-### [KTU academic calenders](https://criteria3.github.com/calender)
+### <a href="https://criteria3.github.com/calender">KTU academic calenders</a>
 
