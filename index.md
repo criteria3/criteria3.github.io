@@ -9,5 +9,5 @@
 
 ### <a href="calendar">KTU academic calendars</a>
 
-### <a href="bloomsr">Blooms taxonomy action verbs</a>
+### <a href="blooms">Blooms taxonomy action verbs</a>
 
