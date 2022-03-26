@@ -1,4 +1,3 @@
-<h1>Accreditation 2022 - CET ECE</h1>
 <h2>Course Attainment Excel sheets to use</h2>
 
 <h3>2019 - Odd Semester (June - Dec) - S3,S5,S7 - KTU 2015 Scheme</h3> 
