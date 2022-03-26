@@ -7,7 +7,7 @@
 
 ### <a href="diary">Course Diary</a>
 
-### <a href="calendar">KTU academic calendars</a>
+### <a href="calendar">KTU academic calendar</a>
 
 ### <a href="blooms">Blooms taxonomy action verbs</a>
 
