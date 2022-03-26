@@ -5,7 +5,7 @@
 
 ### <a href="vision">Vision-Mission Statements, PO-PSO</a>
 
-### <a href="diary">Templates: Course Diary and CO-PO Mapping</a>
+### <a href="diary">Templates- Course Diary, CO-PO Mapping</a>
 
 ### <a href="calendar">KTU academic calendar</a>
 
