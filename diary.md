@@ -4,4 +4,4 @@
 ">Course Diary</a>
 
 
-### <a href="/"> <<Home</a>
+### <a href="criteria3.github.io"> <<Home</a>
