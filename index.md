@@ -1,5 +1,5 @@
 
-## Welcome to criteria 3 updates & resources
+## Welcome 
 
 ### <a href="excel">Attainment Calculation Excel files</a>
 
