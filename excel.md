@@ -34,3 +34,5 @@
 <h3>2021 Odd Semester - S1,S3,S5 - KTU 2019 Scheme</h3>
 <a href="https://drive.google.com/file/d/1ZBl7GC9BhjhdsBZWCAIIXk_VHXyT-a3C/view?usp=sharing">Attainment Calc Sheet - IQAC_2019 Scheme</a>
 <hr>
+
+### <a href="index"> <<Home</a>
