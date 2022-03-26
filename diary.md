@@ -4,4 +4,4 @@
 ">Course Diary</a>
 
 
-### <a href="index"> <<Home</a>
+### <a href="."> <<Home</a>
