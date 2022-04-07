@@ -11,7 +11,7 @@
 
 ### <a href="checklist">Checklist</a>
 
-### <a href="excel_workflow.">Attainment calculation sheet work flow</a>
+### <a href="excel_workflow">Attainment calculation sheet work flow</a>
 
 ### <a href="blooms">Blooms taxonomy action verbs</a>
 
