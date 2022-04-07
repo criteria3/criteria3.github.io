@@ -9,6 +9,8 @@
 
 ### <a href="calendar">KTU academic calendar</a>
 
+### <a href="https://drive.google.com/drive/folders/1uARZsoXEnLxKTklku_Y6gZeKB8piTzKb">University Results</a>
+
 ### <a href="checklist">Checklist</a>
 
 ### <a href="excel_workflow">Attainment calculation sheet work flow</a>
