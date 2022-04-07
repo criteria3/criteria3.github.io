@@ -1,5 +1,8 @@
-### Work flow in Attainment calculation excel file
-================================================
+### Work flow in the course attainment calculation excel file
+#### =============================================
+
+The workflow for the course attainment calculation excel sheet is as follows:
+
 1. Sheet: PO_PSO 
 - Fill Department
 - Programme
