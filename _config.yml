@@ -1,6 +1,7 @@
 # theme: jekyll-theme-slate
 # remote_theme: pages-themes/primer
-remote_theme: jekyll/minima
+remote_theme: LeNPaul/Lagrange
+
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 # gem "github-pages", group: :jekyll_plugins
